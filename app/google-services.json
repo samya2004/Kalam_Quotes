@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015288798301",
+    "project_id": "kalam-quotes-8a131",
+    "storage_bucket": "kalam-quotes-8a131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015288798301:android:8896509236d6eb0d9f81b4",
+        "android_client_info": {
+          "package_name": "com.example.kalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015288798301-4s7jlgp8uf1fj8jrq2vv5n4v5nn239e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCggWvVF87QATaYQwA2ouzSup5aDkreWQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015288798301-4s7jlgp8uf1fj8jrq2vv5n4v5nn239e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
